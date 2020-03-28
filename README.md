@@ -9,7 +9,7 @@ This project works best in [VSCode](https://code.visualstudio.com/) with the [Pr
 To use, clone this repo:
 
 ```bash
-git@github.com:cassandraoconnell/project-starter.git
+git clone git@github.com:cassandraoconnell/project-starter.git
 ```
 
 In the same directory you cloned this repo, run this command (replacing `[your-project-name]` with, well, your project's name):
