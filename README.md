@@ -21,7 +21,7 @@ mv project-starter [your-project-name] && cd ./[your-project-name]
 Do the following cleanup:
 
 ```bash
-rm README.md && rm -rf .git/
+rm README.md LICENSE && rm -rf .git/
 ```
 
 Add the following fields to 'package.json' (filled with your information):
@@ -31,10 +31,16 @@ Add the following fields to 'package.json' (filled with your information):
   "name": "",
   "version": "",
   "description": "",
-  "main": "",
   "author": "",
-  "license": ""
+  "license": "",
+  "repository": ""
 }
+```
+
+And finally, run:
+
+```
+npm install
 ```
 
 ## Writing/Running Tests
