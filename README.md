@@ -12,10 +12,16 @@ To use, clone this repo:
 git clone git@github.com:cassandraoconnell/project-starter.git
 ```
 
-In the same directory you cloned this repo, run this command (replacing `[your-project-name]` with, well, your project's name):
+In the same directory you cloned this repo, run this command to rename your project and move into its directory (replacing `[your-project-name]` with, well, your project's name):
 
 ```bash
-mv project-starter [your-project-name] && cd ./[your-project-name] && rm README.md
+mv project-starter [your-project-name] && cd ./[your-project-name]
+```
+
+Do the following cleanup:
+
+```bash
+rm README.md && rm -rf .git/
 ```
 
 Add the following fields to 'package.json' (filled with your information):
