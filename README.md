@@ -54,6 +54,5 @@ npm run test
 ## Packages Included
 
 - [**`eslint`**](https://eslint.org/) - For checking syntax and finding problems.
-- [**`esm`**](https://www.npmjs.com/package/esm) - To allow project-wide module-style import/export statements.
 - [**`jest`**](https://jestjs.io/) - For running tests.
 - [**`prettier`**](https://prettier.io/) - For automatic code style enforcement and formatting.
