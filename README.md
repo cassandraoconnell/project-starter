@@ -24,7 +24,7 @@ Do the following cleanup:
 rm README.md LICENSE && rm -rf .git/
 ```
 
-Add the following fields to 'package.json' (filled with your information):
+Add the following fields to `package.json` (filled with your information):
 
 ```json
 {
