@@ -2,8 +2,6 @@
 
 ## A Javascript project environment ready for coding with zero config.
 
----
-
 ## Setup
 
 This project works best in [VSCode](https://code.visualstudio.com/) with the [Prettier Code Formatter extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) installed.
@@ -11,7 +9,7 @@ This project works best in [VSCode](https://code.visualstudio.com/) with the [Pr
 To use, clone this repo:
 
 ```bash
-
+git@github.com:cassandraoconnell/project-starter.git
 ```
 
 In the same directory you cloned this repo, run this command (replacing `[your-project-name]` with, well, your project's name):
